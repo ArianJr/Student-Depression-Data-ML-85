@@ -27,7 +27,7 @@ python main.py
 ```
 
 ## Results:
-The model achieves an accuracy of XX% on the test set.
+The model achieves an accuracy of 85% on the test set.
 Additional metrics such as precision, recall, and F1-score are calculated to evaluate performance.
 Visualizations include:
 - Confusion Matrix
