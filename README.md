@@ -19,11 +19,12 @@ This project is part of my journey into Machine Learning and Data Science. It de
 git clone https://github.com/ArianJr/ML-Project.git
 cd ML-Project
 
-### Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-### Run the project
+# Run the project
 python main.py
+```
 
 ## Results:
 The model achieves an accuracy of XX% on the test set.
@@ -32,7 +33,6 @@ Visualizations include:
 - Confusion Matrix
 - Feature Importance
 - Learning Curve
-
 
 ## Feel free to connect or collaborate:
 📧 [arianjafar59@gmail.com]
