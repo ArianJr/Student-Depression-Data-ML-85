@@ -1,4 +1,4 @@
-# Student-Depression-Data-ML-85
+# *Student-Depression-Data-ML-85*
 
 # ML-Project: Predictive Modeling with Scikit-Learn
 
@@ -12,7 +12,7 @@ This project is part of my journey into Machine Learning and Data Science. It de
 - numpy
 - matplotlib / seaborn
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 ```bash
@@ -37,5 +37,5 @@ Visualizations include:
 ## Feel free to connect or collaborate:
 My email: arianjafar59@gmail.com
 
-## Thanks for checking out my project!
-## If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
+### Thanks for checking out my project!
+### If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
