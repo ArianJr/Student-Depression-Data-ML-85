@@ -25,6 +25,11 @@ pip install -r requirements.txt
 # Run the project
 python main.py
 ```
+## Dataset
+This project uses the Student Depression Dataset from Kaggle.
+The dataset is included as a .csv file for convenience, but you can also download it directly from the original source.
+It is publicly available and used here for educational purposes.
+Here is the link: https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset
 
 ## Results:
 The model achieves an accuracy of 85% on the test set.
