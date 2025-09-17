@@ -1,11 +1,11 @@
 # Student-Depression-Data-ML-85
 
-# 🧠 ML-Project: Predictive Modeling with Scikit-Learn
+# ML-Project: Predictive Modeling with Scikit-Learn
 
-## 📌 Overview
+## Overview
 This project is part of my journey into Machine Learning and Data Science. It demonstrates a complete ML pipeline—from data preprocessing to model training and evaluation—using Python and scikit-learn. The goal is to build a predictive model and understand the workflow behind supervised learning.
 
-## 🧰 Tech Stack
+## Tech Stack
 - Python 3.10+
 - scikit-learn
 - pandas
@@ -35,7 +35,7 @@ Visualizations include:
 - Learning Curve
 
 ## Feel free to connect or collaborate:
-📧 [arianjafar59@gmail.com]
+My email: arianjafar59@gmail.com
 
 ## Thanks for checking out my project!
 ## If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
