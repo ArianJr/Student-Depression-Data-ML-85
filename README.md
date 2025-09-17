@@ -37,5 +37,5 @@ Visualizations include:
 ## Feel free to connect or collaborate:
 My email: arianjafar59@gmail.com
 
-### Thanks for checking out my project!
-### If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
+#### Thanks for checking out my project!
+#### If you found it helpful or interesting, consider giving it a ⭐ on GitHub.
