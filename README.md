@@ -1,4 +1,4 @@
-# *Student-Depression-Data-ML-85*
+# *Student Depression Data - ML 85*
 
 # ML-Project: Predictive Modeling with Scikit-Learn
 
